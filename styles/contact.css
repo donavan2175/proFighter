@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://www.roguefitness.com/media/wysiwyg/full-shot-retail-store_1_.jpg");
+    background-attachment: scroll;
+   
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(3, 6, 59);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: blue;
+}
+
+.heading, .paragraph {
+    text-align: center;
+    color: white;
+    font-family: Georgia, Times, serif;
+    line-height: 2em;
+    font-size: 20px;
+}
+
+
+.box {
+    float: left;
+}
+
+.contact {
+    float: center;
+}
+
+.contact {
+    color: white;
+}

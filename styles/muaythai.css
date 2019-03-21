@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://www.desktopbackground.org/download/1280x1024/2013/09/14/638636_muay-thai-wallpapers-wallpapers-cave_1920x1080_h.jpg");
+    background-attachment: scroll;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(3, 6, 59);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: blue;
+}
+
+.heading, .paragraph {
+    text-align: center;
+    color: white;
+    font-family: Georgia, Times, serif;
+    line-height: 2em;
+    font-size: 15px;
+    background: rgba(0, 0, 0, 0) linear-gradient(rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.6) 100%) repeat 0 0;
+    z-index: 1;
+}
+
+.paragraph {
+    text-align: center;
+    right: 100px;
+    font-size: 20px
+    
+   
+}
+
+
+
+.box {
+    float: right
+}
+

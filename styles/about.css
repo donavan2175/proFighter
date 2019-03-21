@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(43, 42, 42);
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(3, 6, 59);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: blue;
+}
+
+.heading {
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.paragraph {
+    font-size: 20px;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+    line-height: 2em;
+}
+
+
+.gym {
+    float: right;
+}

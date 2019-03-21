@@ -1,0 +1,45 @@
+body {
+    background-image: url("http://3.bp.blogspot.com/_80925wmTRbs/TE31__7M9oI/AAAAAAAAAAM/GBnSa-dVV-E/s1600/DSC_0090.JPG");
+    background-attachment: scroll;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(3, 6, 59);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: blue;
+}
+
+.heading, .paragraph {
+    text-align: center;
+    color: white;
+    font-family: Georgia, Times, serif;
+    line-height: 2em;
+    font-size: 20px;
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.6) 100%) repeat 0 0;
+    z-index: 1;
+}
+
+
+
+.box {
+    float: center;
+}
